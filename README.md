@@ -1,4 +1,4 @@
-# MIMIC_OCEL1.0
+# MIMIC-IV-Object-Centric-Process-Mining
 
 ## Overview
 
